@@ -15,7 +15,7 @@ module hotplate()
             }
             translate ([0,0,1]) {
                 union () {
-            	    poly_legs(11.6);
+            	    poly_legs(11.3);
                 	poly_walls(10);
 					//poly_thermscew(10-.01);
                 }
